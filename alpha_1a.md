@@ -20,7 +20,7 @@ to make a sweet treat that you drink.
 <form id='nameForm1'>
 <div class='form-uname'>
     <label id='nameLable1' for='nameField1'></label>
-    <input id='nameField1' type='text' maxlength='15'>
+    <input id='nameField1' type='text' maxlength='25'>
 </div>
 <div class='form-sub'>
     <button id='subButton1' type='button'>Submit</button>
