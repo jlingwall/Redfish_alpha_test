@@ -3,7 +3,7 @@ layout: page
 title: Bon Appetit, Utah County, Puzzle 1
 ---
  
-
+ 
 <h1><i>You must first discover four key words<br> before the full riddle will be revealed: </i></h1>
 
            
