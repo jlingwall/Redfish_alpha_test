@@ -452,8 +452,6 @@ function Hint4b() {
 
 <div ><!--div that we want to hide-->
 
-
-		<!-- <h3>Your riddle:</h3> -->
 		<div><!--div that we want to hide-->
 			<p>Sarsaparilla, yeast, mortar, and heat<br> These four between uplifted spires will meet.<br> The answer is the true sobriquet,<br> Of a place that has earned local célèbre.</p>
 		</div>
@@ -473,11 +471,11 @@ function Hint4b() {
 			</form>
 
 			<div>
-			    <p id='result5'></p></div>
+			    <p id='result5'></p>
+			  </div>
 			</div>
 
 </div> 
-<!-- is this the weapper or the column? -->
 
 	<button onclick="Hint5()" >Hint?</button>
 	<div id="Hint5">
@@ -494,77 +492,86 @@ function Hint4b() {
 
 	</div>
 	</div>
+
+
+
+
+
+
+
+
+
+
+
 	<script type="text/javascript">
 	  document.getElementById("Hint5").style.display = "none";
 	</script>
 
 	<script>
-	function Hint5() {
-	  var x = document.getElementById("Hint5");
-	  if (x.style.display === "none") {
-	    x.style.display = "block";
-	  } else {
-	    x.style.display = "none";
-	  }
-	}
+			function Hint5() {
+			  var x = document.getElementById("Hint5");
+			  if (x.style.display === "none") {
+			    x.style.display = "block";
+			  } else {
+			    x.style.display = "none";
+			  }
+			}
 	</script>
 
 
 	<script type="text/javascript">
-	  document.getElementById("Hint5b").style.display = "none";
+		  document.getElementById("Hint5b").style.display = "none";
 	</script>
 
 	<script>
-	function Hint5b() {
-	  var x = document.getElementById("Hint5b");
-	  if (x.style.display === "none") {
-	    x.style.display = "block";
-	  } else {
-	    x.style.display = "none";
-	  }
-	}
+			function Hint5b() {
+			  var x = document.getElementById("Hint5b");
+			  if (x.style.display === "none") {
+			    x.style.display = "block";
+			  } else {
+			    x.style.display = "none";
+			  }
+			}
 	</script>
 
 	<script type="text/javascript">
-		var solved5 = 0;
+					var solved5 = 0;
+
+			function createLink(linkExtension) {
+
+			  const balanceDiv = document.createElement("div");
+			  const symbolSpan = document.createElement("span");
+			  const link = document.createElement("a");
+
+			  link.setAttribute('href', `https://docs.google.com/forms/d/e/1FAIpQLSf_C2Kw_9yaqL4GXpLba95TKFRSqZ3qCp39pTbObw7FqV8RLw/viewform?usp=sf_link`);
+			  link.textContent = 'You solved the puzzle. Amazing. Click here to continue.';
+			  symbolSpan.appendChild(link);
+			  balanceDiv.appendChild(symbolSpan);
+			  document.body.appendChild(balanceDiv);
+			}
 
 
+					function getUserName5() {
+				var nameField = document.getElementById('nameField5').value;
+				var result5 = document.getElementById('result5');
 
-function createLink(linkExtension) {
+				if (nameField != "heaps of pizza" && nameField != "Heaps of Pizza" && nameField != "Heaps of pizza") {
+					if (nameField == "Brick Oven" || nameField == "brick oven" || nameField == "The Brick Oven"){
+					result5.textContent = "Close. You need the sobriquet ...";
+				}
+					else {
 
-  const balanceDiv = document.createElement("div");
-  const symbolSpan = document.createElement("span");
-  const link = document.createElement("a");
-
-  link.setAttribute('href', `https://docs.google.com/forms/d/e/1FAIpQLSf_C2Kw_9yaqL4GXpLba95TKFRSqZ3qCp39pTbObw7FqV8RLw/viewform?usp=sf_link`);
-  link.textContent = 'You solved the puzzle. Amazing. Click here to continue.';
-  symbolSpan.appendChild(link);
-  balanceDiv.appendChild(symbolSpan);
-  document.body.appendChild(balanceDiv);
-}
-
-
-		function getUserName5() {
-	var nameField = document.getElementById('nameField5').value;
-	var result5 = document.getElementById('result5');
-
-	if (nameField != "heaps of pizza" && nameField != "Heaps of Pizza" && nameField != "Heaps of pizza") {
-		if (nameField == "Brick Oven" || nameField == "brick oven" || nameField == "The Brick Oven"){
-		result5.textContent = "Close. You need the sobriquet ...";
-	}
-		else {
-
-	    result5.textContent = 'Keep trying ...';}
-	    //alert('Username must contain at least 3 characters');
-	} else {
-	    // result5.textContent = 'You solved the puzzle!! Amazing.' +"" ;
-	    	    result5.textContent = createLink('myparam');
-	    solved5 = 1;
-	    //alert(nameField);
-	}
-	}
-	var subButton5 = document.getElementById('subButton5');
-	subButton5.addEventListener('click', getUserName5, false); 
+				    result5.textContent = 'Keep trying ...';}
+				    //alert('Username must contain at least 3 characters');
+				} else {
+				    // result5.textContent = 'You solved the puzzle!! Amazing.' +"" ;
+				    	    result5.textContent = createLink('myparam');
+				    solved5 = 1;
+				    //alert(nameField);
+				}
+				}
+				var subButton5 = document.getElementById('subButton5');
+				subButton5.addEventListener('click', getUserName5, false); 
 
 	</script>
 
@@ -573,31 +580,30 @@ function createLink(linkExtension) {
 
 <script type="text/javascript">
 
-// function demoDisplay() {
-  document.getElementById("theAnswer").style.display = "none";
-// }
+			// function demoDisplay() {
+			  document.getElementById("theAnswer").style.display = "none";
+			// }
 </script>
 
-
 <script type="text/javascript">
-	function getoverallsolution() {
-		var overallresult = document.getElementById('overallresult');
-		// solved1 = 1;
-		// solved2 = 1;
-		// solved3 = 1;
-		// solved4 = 1;
-if (solved1 == 1 && solved2 == 1 && solved3 == 1 && solved4 == 1) {
-	overallresult.textContent =  "Congratulations for solving these puzzles. Your next test is below!";
-	   document.getElementById("theAnswer").style.display = "block";
+					function getoverallsolution() {
+						var overallresult = document.getElementById('overallresult');
+						// solved1 = 1;
+						// solved2 = 1;
+						// solved3 = 1;
+						// solved4 = 1;
+				if (solved1 == 1 && solved2 == 1 && solved3 == 1 && solved4 == 1) {
+					overallresult.textContent =  "Congratulations for solving these puzzles. Your next test is below!";
+					   document.getElementById("theAnswer").style.display = "block";
 
-}
+				}
 
-}
+				}
 
-subButton1.addEventListener('click', getoverallsolution, false); 
-subButton2.addEventListener('click', getoverallsolution, false); 
-subButton3.addEventListener('click', getoverallsolution, false); 
-subButton4.addEventListener('click', getoverallsolution, false); 
+				subButton1.addEventListener('click', getoverallsolution, false); 
+				subButton2.addEventListener('click', getoverallsolution, false); 
+				subButton3.addEventListener('click', getoverallsolution, false); 
+				subButton4.addEventListener('click', getoverallsolution, false); 
 
 </script>
 
