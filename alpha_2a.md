@@ -303,7 +303,7 @@ Submit your three-digit pin below.
 			<form id='nameForm5'>
 				<div class='form-uname'>
 				    <label id='nameLable5' for='nameField5'></label>
-				    <input id='nameField5' type='text' maxlength='40'></input>
+				    <input id='nameField5' type='text' maxlength='40'>
 				</div>
 				<div class='form-sub'>
 				    <button id='subButton5' type='button'>Submit</button>
@@ -390,8 +390,6 @@ function createLink(linkExtension) {
 
 	</script>
 
-</div>
-</div>
 </div>
 </div>
 </div>
