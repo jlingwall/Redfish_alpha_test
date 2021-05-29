@@ -568,12 +568,6 @@ function createLink(linkExtension) {
 
 	</script>
 
-</div>
-
-
-
-
-
 
 
 
