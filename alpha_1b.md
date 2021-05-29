@@ -76,7 +76,7 @@ title: Test
 
 
 <button onclick="Hint1()" >Hint?</button>
-    <div id="Hint1">
+<div id="Hint1">
     	<div>
 				    We used to get our snack at the little red shack. <p></p>
 
