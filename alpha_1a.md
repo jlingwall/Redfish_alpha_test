@@ -280,7 +280,7 @@ Square and compass
 
 
 
-</div>
+
 <script type="text/javascript">
   document.getElementById("Hint3").style.display = "none";
 </script>
