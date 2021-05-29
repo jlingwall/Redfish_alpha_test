@@ -260,6 +260,7 @@ var subButton3 = document.getElementById('subButton3');
 subButton3.addEventListener('click', getUserName3, false); 
 </script>
 
+</div>
 
 <button onclick="Hint3()" >Hint?</button>
 
@@ -279,7 +280,7 @@ Square and compass
 
 
 
-
+</div>
 </div>
 <script type="text/javascript">
   document.getElementById("Hint3").style.display = "none";
