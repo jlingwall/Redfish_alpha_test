@@ -20,7 +20,7 @@ Take a selfie with us.
 <h2><a href="https://docs.google.com/forms/d/e/1FAIpQLSe2IjynsaTsIkEImOaELDfgcA1OAp2zrww_1_P-dbzFeDi0xw/viewform?usp=sf_link">Upload a selfie here to complete this hunt.</a></h2>
 
 
-
+<p>
 <button onclick="Hint1()" >Hint?</button>
     <div id="Hint1"><div>
     A stop in the Presidio may help you find your way. <br>
