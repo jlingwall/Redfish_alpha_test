@@ -184,6 +184,9 @@ function Hint2b() {
 }
 </script>
 
+
+</div>
+</div>
 <!-- SECOND CLUE END -->
 
 <!-- THIRD CLUE START -->
@@ -274,6 +277,8 @@ Look for a two-story salt-box residence across from the library.
 	}
 </script>
 
+</div>
+</div>
 
 <!-- THIRD CLUE END -->
 
