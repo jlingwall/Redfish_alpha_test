@@ -400,36 +400,36 @@ Use a Caesar Cypher on a single letter<p></p>
 </script>
 
 <script>
-function Hint4() {
-  var x = document.getElementById("Hint4");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
+		function Hint4() {
+		  var x = document.getElementById("Hint4");
+		  if (x.style.display === "none") {
+		    x.style.display = "block";
+		  } else {
+		    x.style.display = "none";
+		  }
+		}
 </script>
 
 
 
 
 <script type="text/javascript">
-  document.getElementById("Hint4b").style.display = "none";
+  	document.getElementById("Hint4b").style.display = "none";
 </script>
 
 <script>
-function Hint4b() {
-  var x = document.getElementById("Hint4b");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
+		function Hint4b() {
+		  var x = document.getElementById("Hint4b");
+		  if (x.style.display === "none") {
+		    x.style.display = "block";
+		  } else {
+		    x.style.display = "none";
+		  }
+		}
 </script>
 
 
-</div>
+
 
 
 
