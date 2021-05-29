@@ -421,7 +421,4 @@ function createLink(linkExtension) {
 
 </script>
 
-
-update3
-
 <!-- END OVERALL ANSWER -->
