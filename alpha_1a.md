@@ -475,7 +475,7 @@ function Hint4b() {
 			  </div>
 			</div>
 
-</div> 
+
 
 	<button onclick="Hint5()" >Hint?</button>
 	<div id="Hint5">
