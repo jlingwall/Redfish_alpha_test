@@ -48,8 +48,8 @@ title: Test
 				  const symbolSpan = document.createElement("span");
 				  const link = document.createElement("a");
 
-				  link.setAttribute('href', `https://sites.google.com/view/utah-county-1csdf`);
-				  link.textContent = 'Take a selfie in front of a J. Dawgs location and upload at this link.';
+				  link.setAttribute('href', `https://docs.google.com/forms/d/e/1FAIpQLSeiX5A9Ru63ItlfnU3pDgtuzXNab3f9809VxwR_8u23XIm6Uw/viewform?usp=sf_link`);
+				  link.textContent = 'Take a selfie in front of a J. Dawgs location and then upload at this link.';
 				  symbolSpan.appendChild(link);
 				  balanceDiv.appendChild(symbolSpan);
 				  document.body.appendChild(balanceDiv);
@@ -74,7 +74,7 @@ title: Test
 
 </script>
 
-<p>
+
 <button onclick="Hint1()" >Hint?</button>
 <div id="Hint1">
     	<div>
