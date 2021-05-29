@@ -159,8 +159,6 @@ Beauty <i>from</i> ashes in the City Center. <p></p>
 
 </div>
 </div>
-</div>
-</div>
 
 <script type="text/javascript">
     document.getElementById("Hint2").style.display = "none";
@@ -277,6 +275,8 @@ Look for a two-story salt-box residence across from the library.
 	}
 </script>
 
+</div>
+</div>
 
 
 <!-- THIRD CLUE END -->
@@ -422,6 +422,6 @@ function createLink(linkExtension) {
 </script>
 
 
-update2
+update3
 
 <!-- END OVERALL ANSWER -->
