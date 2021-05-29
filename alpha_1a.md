@@ -343,7 +343,8 @@ You have just eight minutes. Make it quick!
 </form>
 
 <div>
-    <p id='result4'></p></div>
+    <p id='result4'></p>
+ </div>
 </div>
 
 <script type="text/javascript">
