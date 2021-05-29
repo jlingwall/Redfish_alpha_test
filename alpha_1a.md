@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Bon Appetit, Utah County, Puzzle 1
 ---
  
  
