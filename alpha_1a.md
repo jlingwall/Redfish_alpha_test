@@ -380,7 +380,7 @@ Caesar loved cyphers<p></p>
 <div id="Hint4b">
 		<div><!--div that we want to hide-->
 Use a Caesar Cypher on a single letter<p></p>
-
+</div>
 
 
 
