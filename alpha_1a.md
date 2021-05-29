@@ -571,11 +571,7 @@ function createLink(linkExtension) {
 </div>
 
 
-</div>
 
-
-</div>
-</div>
 
 
 
