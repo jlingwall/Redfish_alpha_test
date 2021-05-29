@@ -279,7 +279,7 @@ Look for a two-story salt-box residence across from the library.
 
 </div>
 </div>
-</div>
+
 
 <!-- THIRD CLUE END -->
 
@@ -392,7 +392,7 @@ function createLink(linkExtension) {
 
 </div>
 </div>
-</div>
+
 
 
 
@@ -422,5 +422,8 @@ function createLink(linkExtension) {
 	// subButton4.addEventListener('click', getoverallsolution, false); 
 
 </script>
+
+
+update1
 
 <!-- END OVERALL ANSWER -->
