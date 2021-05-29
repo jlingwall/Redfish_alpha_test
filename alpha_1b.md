@@ -80,10 +80,10 @@ title: Test
     	<div>
 				    We used to get our snack at the little red shack. <br>
 
-				<button onclick="Hint1b()" >Another?</button>
-				   <div id="Hint1b"><div>
-				    Jason grills 'em up fresh south of campus.
-		</div>
+<button onclick="Hint1b()" >Another?</button>
+				 <div id="Hint1b"><div>
+				  Jason grills 'em up fresh south of campus.
+</div>
 </div>
 
 <script type="text/javascript">
