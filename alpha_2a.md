@@ -53,11 +53,11 @@ Now his picture hangs in the corridor.
 
 
 <button onclick="Hint1()" >Hint?</button>
-		<div id="Hint1"><div>
+<div id="Hint1"><div>
 		Pay attention to capital letters <br>
 
 <button onclick="Hint1b()" >Another?</button>
-		<div id="Hint1b"><div>
+<div id="Hint1b"><div>
 		Have you heard of the Victorian Mansions of Provo?
 </div>
 </div>
