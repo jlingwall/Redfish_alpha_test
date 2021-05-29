@@ -74,7 +74,7 @@ title: Test
 
 </script>
 
-
+<p>
 <button onclick="Hint1()" >Hint?</button>
 <div id="Hint1">
     	<div>
