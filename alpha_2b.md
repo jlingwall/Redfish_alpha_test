@@ -59,7 +59,7 @@ title: Test
 				    var nameField = document.getElementById('nameField1').value;
 				    var result1 = document.getElementById('result1');
 
-				    if (nameField != "J Dawgs" && nameField != "J. Dawgs" && nameField != "j dawgs" && nameField != "j. dawgs") {
+				    if (nameField != "Bridal Veil Falls" && nameField != "bridal veil falls" && nameField != "Bridal veil falls") {
 				        result1.textContent = 'Keep trying ...';
 				        //alert('Username must contain at least 1 characters');
 				    } else {
