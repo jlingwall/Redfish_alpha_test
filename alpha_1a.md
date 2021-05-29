@@ -173,8 +173,6 @@ subButton2.addEventListener('click', getUserName2, false);
 		<div><!--div that we want to hide-->
 Teeny tiny fungi<p></p>
 
-</div>
-</div>
 
 
 </div>
@@ -210,6 +208,8 @@ function Hint2b() {
 </script>
 
 
+</div>
+</div>
 
 
 <p>
