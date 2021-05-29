@@ -466,11 +466,15 @@ function Hint4b() {
 				    <button id='subButton5' type='button'>Submit</button>
 				</div>
 				
-			</form>
 
-			<div>
+
+
+				<div>
 			    <p id='result5'></p>
 			  </div>
+			</form>
+
+			
 		
 
 
