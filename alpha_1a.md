@@ -438,7 +438,7 @@ function Hint4b() {
 <!-- Get the overall answer -->
 
 
-</div>
+
 </div>
 
 
