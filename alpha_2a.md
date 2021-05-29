@@ -359,7 +359,7 @@ function createLink(linkExtension) {
   const symbolSpan = document.createElement("span");
   const link = document.createElement("a");
 
-  link.setAttribute('href', `https://sites.google.com/view/june5utahcounty2b3ks7/home`);
+  link.setAttribute('href', `https://docs.google.com/forms/d/e/1FAIpQLSfCVZxWQDADQuSXJtxyHeN2B8aH_8EYN18XZMA6i3nWEZK2Ag/viewform?usp=sf_link`);
   link.textContent = 'You solved the puzzle. Amazing. Click here to continue.';
   symbolSpan.appendChild(link);
   balanceDiv.appendChild(symbolSpan);
