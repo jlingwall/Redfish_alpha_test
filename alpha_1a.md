@@ -581,14 +581,6 @@ function createLink(linkExtension) {
 
 
 
-
-</div><!--end div_text_container-->
-
-
-
-
-
-
 <script type="text/javascript">
 
 // function demoDisplay() {
