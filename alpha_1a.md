@@ -439,6 +439,7 @@ function Hint4b() {
 
 
 </div>
+</div>
 
 
 <div> <h1 id='overallresult'></h1>
