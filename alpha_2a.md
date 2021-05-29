@@ -277,8 +277,6 @@ Look for a two-story salt-box residence across from the library.
 	}
 </script>
 
-</div>
-</div>
 
 
 <!-- THIRD CLUE END -->
@@ -424,6 +422,6 @@ function createLink(linkExtension) {
 </script>
 
 
-update1
+update2
 
 <!-- END OVERALL ANSWER -->
