@@ -16,7 +16,7 @@ Take a selfie on the spot.
 </p>
 
 
-<h2><a href="https://docs.google.com/forms/d/e/1FAIpQLScxn5hFpmlOWb6y5CiWEPIov477ESS55uvxoiVDVRbZLobNZA/viewform?usp=sf_link">Upload a selfie here to complete this hunt.</a>
+<h2><a href="https://docs.google.com/forms/d/e/1FAIpQLScxn5hFpmlOWb6y5CiWEPIov477ESS55uvxoiVDVRbZLobNZA/viewform?usp=sf_link">Upload a selfie here to complete this hunt.</a></h2>
 
 
 
@@ -56,6 +56,4 @@ function Hint1() {
   }
 </script>
 
-</div>
-</div>
 
