@@ -201,7 +201,7 @@ Keep spending your shoe-leather--conquer the game.
 <form id='nameForm3'>
 <div class='form-uname'>
     <label id='nameLable3' for='nameField3'></label>
-    <!-- <input id='nameField3' type='text' maxlength='40'></input> -->
+    <!-- <input id='nameField3' type='text' maxlength='40'>
 </div>
 <div class='form-sub'>
     <!-- <button id='subButton3' type='button'>Submit</button> -->
@@ -247,8 +247,7 @@ Two capital letters misplaced may appear to show you the names you want to hear.
 Look for a two-story salt-box residence across from the library.
 </div>
 </div>
-</div>
-</div>
+
 
 
 <script type="text/javascript">
