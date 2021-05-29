@@ -5,6 +5,9 @@ title: Test
  
 <h1>Welcome to your final puzzle.</h1>
 
+<p>(Note, to see responses, you may need to scroll down the page as you submit answers.)</p>
+
+
 
 <p>Strawberry Days take forever<br>
 Its bull riders can tolerate bruises<br>

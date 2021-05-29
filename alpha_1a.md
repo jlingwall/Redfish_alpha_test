@@ -10,6 +10,8 @@ title: Test
 
 <h1><i>You must first discover four key words<br> before the full riddle will be revealed: </i></h1>
 
+<p>(Note, to see responses, you may need to scroll down the page as you submit answers.)</p>
+
            
             
 <!-- Clue and solution -->

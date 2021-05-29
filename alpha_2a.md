@@ -5,6 +5,7 @@ title: Test
  
 <h1><i>This riddle is unlocked with a three-digit pin.<br> Each digit corresponds to the first number<br> of the street address of a historic building in Provo, UT. </i></h1>
 
+<p>(Note, to see responses, you may need to scroll down the page as you submit answers.)</p>
 
 
 <!-- FIRST CLUE START -->
