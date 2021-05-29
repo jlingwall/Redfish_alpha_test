@@ -437,7 +437,7 @@ function Hint4b() {
 
 <!-- Get the overall answer -->
 
-
+</div>
 
 <div> <h1 id='overallresult'></h1>
 
@@ -469,7 +469,7 @@ function Hint4b() {
 
 
 
-			
+
 			</form>
 
 				<div>
