@@ -473,7 +473,7 @@ function Hint4b() {
 			<div>
 			    <p id='result5'></p>
 			  </div>
-			</div>
+		
 
 
 
