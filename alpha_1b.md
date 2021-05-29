@@ -3,7 +3,8 @@ layout: default
 title: Test
 ---
  
- 
+ ## Watch each video to find the clues that will lead you to your destination:
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5F_dglZFboI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -75,13 +76,15 @@ title: Test
 
 
 <button onclick="Hint1()" >Hint?</button>
-    <div id="Hint1"><div>
-    We used to get our snack at the little red shack. <br>
+    <div id="Hint1">
+    	<div>
+				    We used to get our snack at the little red shack. <br>
 
-<button onclick="Hint1b()" >Another?</button>
-   <div id="Hint1b"><div>
-    Jason grills 'em up fresh south of campus.
-
+				<button onclick="Hint1b()" >Another?</button>
+				   <div id="Hint1b"><div>
+				    Jason grills 'em up fresh south of campus.
+		</div>
+</div>
 
 <script type="text/javascript">
 		  document.getElementById("Hint1").style.display = "none";
