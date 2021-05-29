@@ -367,7 +367,7 @@ var subButton4 = document.getElementById('subButton4');
 subButton4.addEventListener('click', getUserName4, false); 
 
 </script>
-</div>
+
 
 <button onclick="Hint4()" >Hint?</button>
 <p></p>
