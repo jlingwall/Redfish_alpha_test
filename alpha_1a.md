@@ -63,7 +63,7 @@ subButton1.addEventListener('click', getUserName1, false);
 
 		<button onclick="Hint1b()" >Another?</button>
 	<div id="Hint1b"><div>
-		Think Barq's ....
+		Think Barq's ....<p></p><p></p>
 </div>
 </div>
 
