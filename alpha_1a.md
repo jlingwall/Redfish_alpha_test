@@ -469,12 +469,12 @@ function Hint4b() {
 
 
 
+			
+			</form>
+
 				<div>
 			    <p id='result5'></p>
 			  </div>
-			</form>
-
-			
 		
 
 
