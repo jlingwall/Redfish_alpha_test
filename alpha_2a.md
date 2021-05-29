@@ -88,7 +88,8 @@ function Hint1() {
 </script>
 
 
-
+</div>
+</div>
 
 
 <!-- FIRST CLUE END -->
