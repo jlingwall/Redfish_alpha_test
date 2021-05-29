@@ -386,13 +386,6 @@ Use a Caesar Cypher on a single letter<p></p>
 
 
 
-</div>
-</div>
-
-
-
-
-
 <script type="text/javascript">
   document.getElementById("Hint4").style.display = "none";
 </script>
