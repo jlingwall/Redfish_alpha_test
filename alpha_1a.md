@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Bon Appetit, Utah County, Puzzle 1
 ---
 
 
@@ -21,7 +22,7 @@ to make a sweet treat that you drink.
 <form id='nameForm1'>
 <div class='form-uname'>
     <label id='nameLable1' for='nameField1'></label>
-    <input id='nameField1' type='text' maxlength='15'></input>
+    <input id='nameField1' type='text' maxlength='15'>
 </div>
 <div class='form-sub'>
     <button id='subButton1' type='button'>Submit</button>
@@ -60,7 +61,7 @@ subButton1.addEventListener('click', getUserName1, false);
 		            
 		        
 		<!-- Hint -->
-
+<p>
 		<button onclick="Hint1()" >Hint?</button>
 		<div id="Hint1"><div>
 		<p>A cousin to another famous drink that has bite.
