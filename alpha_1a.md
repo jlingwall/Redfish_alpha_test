@@ -336,8 +336,7 @@ A Julian device will do the trick. <br>
 You have just eight minutes. Make it quick!
 </p>
 </div>
-	<div class="column">
-</div>
+
 </div>
 
 <div class='wrapper'>
@@ -376,8 +375,6 @@ subButton4.addEventListener('click', getUserName4, false);
 
 </script>
 </div>
-<div class="column">
-
 
 <button onclick="Hint4()" >Hint?</button>
 <p></p>
