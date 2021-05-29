@@ -389,6 +389,7 @@ Caesar loved cyphers<p></p>
 		<div><!--div that we want to hide-->
 Use a Caesar Cypher on a single letter<p></p>
 </div>
+</div>
 
 
 
