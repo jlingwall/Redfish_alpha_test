@@ -78,11 +78,12 @@ title: Test
 <button onclick="Hint1()" >Hint?</button>
     <div id="Hint1">
     	<div>
-				    We used to get our snack at the little red shack. <br>
+				    We used to get our snack at the little red shack. <p></p>
 
 <button onclick="Hint1b()" >Another?</button>
 				 <div id="Hint1b"><div>
 				  Jason grills 'em up fresh south of campus.
+</div>
 </div>
 </div>
 
