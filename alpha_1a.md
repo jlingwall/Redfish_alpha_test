@@ -2,11 +2,6 @@
 layout: page
 ---
 
-<!DOCTYPE html>
-<html>
-
-
-<body>
 
 
 
@@ -704,7 +699,4 @@ subButton4.addEventListener('click', getoverallsolution, false);
 </script>
 
 
-
-</body>
-</html>
 
