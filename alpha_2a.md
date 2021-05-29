@@ -51,18 +51,17 @@ Now his picture hangs in the corridor.
 
 </script>
 
-
+<p>
 <button onclick="Hint1()" >Hint?</button>
 <div id="Hint1"><div>
-		Pay attention to capital letters <br>
+		<p>Pay attention to capital letters </p>
 
 <button onclick="Hint1b()" >Another?</button>
 <div id="Hint1b"><div>
 		Have you heard of the Victorian Mansions of Provo?
 </div>
 </div>
-</div>
-</div>
+
 
 <script type="text/javascript">
   document.getElementById("Hint1").style.display = "none";
