@@ -260,6 +260,7 @@ var subButton3 = document.getElementById('subButton3');
 subButton3.addEventListener('click', getUserName3, false); 
 </script>
 
+</div>
 
 <button onclick="Hint3()" >Hint?</button>
 
