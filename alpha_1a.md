@@ -7,11 +7,7 @@ layout: page
 
 <h1><i>You must first discover four key words<br> before the full riddle will be revealed: </i></h1>
 
-
-<div id="poem">
-<div class="row">
-        <div class="column" >
-            
+           
             
 <!-- Clue and solution -->
 
@@ -19,15 +15,6 @@ layout: page
 are two Spanish words here that combine<br>
 to make a sweet treat that you drink.
 </p>
-
-</div>
-        <div class="column" >
-</div>
-</div>
-
-<div class="row">
-<div class="column" >
-
 
 
 <div class='wrapper'>
@@ -69,10 +56,7 @@ subButton1.addEventListener('click', getUserName1, false);
 
 </script>
 
-
-        </div>
         
-<div class="column" >
 		            
 		        
 		<!-- Hint -->
@@ -140,24 +124,11 @@ function Hint1b() {
 
 
 
-<div class="row">
-    <div class="column" >
-
-
-
 
 <p>A Hungarian Jew was quick to the take<br>
 to develop his little (un)matzo cake.
 </p>
 
-
-
-</div>      
-  <div class="column" ></div></div>
-
-
-<div class="row">
-        <div class="column" >
 
 
 <div class='wrapper'>
@@ -197,11 +168,6 @@ if (nameField != "yeast" && nameField != "Yeast" ) {
 var subButton2 = document.getElementById('subButton2');
 subButton2.addEventListener('click', getUserName2, false); 
 </script>
-
-</div>
-
-<div class="column">
-
 
 
 <button onclick="Hint2()" >Hint?</button>
@@ -257,11 +223,6 @@ function Hint2b() {
 </div>
 
 
-
-
-
-<div class="row">
-<div class="column">
 <p>
 Sticks and stones may break my bones;<br>
 But ancient Lodgers used this as glue.<br>
@@ -269,13 +230,6 @@ Make sure you have the correct noun:<br>
 Or the homonym will blow up the town.<br>
 </p>
 </div>
-<div class="column">
-</div>
-
-</div>
-
-<div class="row">
-<div class="column">
 
 <div class='wrapper'>
 <form id='nameForm3'>
@@ -316,8 +270,6 @@ subButton3.addEventListener('click', getUserName3, false);
 
 </div>
 
-
-<div class="column">
 <button onclick="Hint3()" >Hint?</button>
 
 <div id="Hint3">
@@ -330,7 +282,6 @@ One doesn't simply walk into [this homophone] <p></p>
 <div id="Hint3b">
 		<div><!--div that we want to hide-->
 Square and compass
-</div>
 </div>
 
 
@@ -376,11 +327,6 @@ function Hint3b() {
 
 
 
-<div class="row">
-	<div class="column">
-
-
-
 <p>
 Peat and rePeat were in a boat. Peat fell out.<br>
 Who was still in the boat?<br>
@@ -393,9 +339,6 @@ You have just eight minutes. Make it quick!
 	<div class="column">
 </div>
 </div>
-
-<div class="row">
-	<div class="column">
 
 <div class='wrapper'>
 <form id='nameForm4'>
@@ -520,19 +463,11 @@ function Hint4b() {
 
 <div id="poem"><!--div that we want to hide-->
 
-<div class="row">
-<div class="column">
 
 		<!-- <h3>Your riddle:</h3> -->
 		<div><!--div that we want to hide-->
 			<p>Sarsaparilla, yeast, mortar, and heat<br> These four between uplifted spires will meet.<br> The answer is the true sobriquet,<br> Of a place that has earned local célèbre.</p>
 		</div>
-
-</div><div class="column"></div> </div>
-
-<div class="row">
-	
-	<div class="column">
 
 			<div class='wrapper'>
 			
@@ -554,9 +489,6 @@ function Hint4b() {
 
 </div> 
 <!-- is this the weapper or the column? -->
-
-
-<div class="column">
 
 	<button onclick="Hint5()" >Hint?</button>
 	<div id="Hint5">
