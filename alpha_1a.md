@@ -227,7 +227,7 @@ Or the homonym will blow up the town.<br>
 <form id='nameForm3'>
 <div class='form-uname'>
     <label id='nameLable3' for='nameField3'></label>
-    <input id='nameField3' type='text' maxlength='25'></input>
+    <input id='nameField3' type='text' maxlength='25'>
 </div>
 <div class='form-sub'>
     <button id='subButton3' type='button'>Submit</button>
@@ -335,7 +335,7 @@ You have just eight minutes. Make it quick!
 <form id='nameForm4'>
 <div class='form-uname'>
     <label id='nameLable4' for='nameField4'></label>
-    <input id='nameField4' type='text' maxlength='25'></input>
+    <input id='nameField4' type='text' maxlength='25'>
 </div>
 <div class='form-sub'>
     <button id='subButton4' type='button'>Submit</button>
@@ -464,7 +464,7 @@ function Hint4b() {
 			<form id='nameForm5'>
 				<div class='form-uname'>
 				    <label id='nameLable5' for='nameField5'></label>
-				    <input id='nameField5' type='text' maxlength='25'></input>
+				    <input id='nameField5' type='text' maxlength='25'>
 				</div>
 				<div class='form-sub'>
 				    <button id='subButton5' type='button'>Submit</button>
