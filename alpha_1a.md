@@ -4,8 +4,6 @@ title: Bon Appetit, Utah County, Puzzle 1
 ---
 
 
-
-
 <h1><i>You must first discover four key words<br> before the full riddle will be revealed: </i></h1>
 
            
@@ -57,10 +55,6 @@ subButton1.addEventListener('click', getUserName1, false);
 
 </script>
 
-        
-		            
-		        
-		<!-- Hint -->
 <p>
 		<button onclick="Hint1()" >Hint?</button>
 		<div id="Hint1"><div>
@@ -71,13 +65,6 @@ subButton1.addEventListener('click', getUserName1, false);
 	<div id="Hint1b"><div>
 		Think Barq's ....
 </div>
-</div>
-
-
-		</div>
-
-
-
 </div>
 
 
