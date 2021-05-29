@@ -322,7 +322,10 @@ function Hint3b() {
 </div>
 
 
-
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>
 Peat and rePeat were in a boat. Peat fell out.<br>
 Who was still in the boat?<br>
@@ -446,7 +449,7 @@ function Hint4b() {
 
 <div id="theAnswer">
 
-<div id="poem"><!--div that we want to hide-->
+<div ><!--div that we want to hide-->
 
 
 		<!-- <h3>Your riddle:</h3> -->
