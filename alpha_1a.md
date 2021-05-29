@@ -236,7 +236,7 @@ Or the homonym will blow up the town.<br>
 
 <div>
     <p id='result3'></p></div>
-</div>
+
 
 <script type="text/javascript">
 	var solved3 = 0;
