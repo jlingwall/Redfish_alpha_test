@@ -279,6 +279,7 @@ Look for a two-story salt-box residence across from the library.
 
 </div>
 </div>
+</div>
 
 <!-- THIRD CLUE END -->
 
