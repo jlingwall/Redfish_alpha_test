@@ -211,14 +211,17 @@ function Hint2b() {
 </div>
 </div>
 
-
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>
 Sticks and stones may break my bones;<br>
 But ancient Lodgers used this as glue.<br>
 Make sure you have the correct noun:<br>
 Or the homonym will blow up the town.<br>
 </p>
-</div>
 
 <div class='wrapper'>
 <form id='nameForm3'>
