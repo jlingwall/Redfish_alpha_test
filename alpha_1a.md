@@ -114,7 +114,7 @@ function Hint1b() {
 
 <p></p>
 <p></p>
-<p></p>
+<p></p><p></p><p></p>
 <p></p>
 <p>A Hungarian Jew was quick to the take<br>
 to develop his little (un)matzo cake.
@@ -126,7 +126,7 @@ to develop his little (un)matzo cake.
 <form id='nameForm2'>
 <div class='form-uname'>
     <label id='nameLable2' for='nameField2'></label>
-    <input id='nameField2' type='text' maxlength='25'></input>
+    <input id='nameField2' type='text' maxlength='25'>
 </div>
 <div class='form-sub'>
     <button id='subButton2' type='button'>Submit</button>
@@ -210,8 +210,6 @@ function Hint2b() {
 </script>
 
 
-</div>
-</div>
 
 
 <p>
