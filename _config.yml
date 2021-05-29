@@ -1,3 +1,4 @@
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -13,4 +14,3 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
   - alpha_1a.md
-theme: jekyll-theme-midnight
