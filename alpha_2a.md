@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Test
+title: Clue 1
 ---
  
 <h1><i>This riddle is unlocked with a three-digit pin.<br> Each digit corresponds to the first number<br> of the street address of a historic building in Provo, UT. </i></h1>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Test
+title: Clue 3
 ---
  
 <h1>Welcome to your final puzzle.</h1>

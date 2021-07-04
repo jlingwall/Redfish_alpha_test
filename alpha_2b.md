@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Test
+title: Clue 2
 ---
  
 <h1>Watch each video to find the clues that will lead you to your destination:</h1>
