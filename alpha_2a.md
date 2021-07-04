@@ -5,13 +5,13 @@ title: Test
  
 <h1><i>This riddle is unlocked with a three-digit pin.<br> Each digit corresponds to the first number<br> of the street address of a historic building in Provo, UT. </i></h1>
 
-<p>(Note, to see responses, you may need to scroll down the page as you submit answers.)</p>
+<p>(Note, click "Submit" to check your answers. You may need to scroll down the page as you submit answers to see the results.)</p>
 
 
 <!-- FIRST CLUE START -->
 
  
-<p>David's father, medieval Warrior,<br> 
+<p>1. David's father, medieval Warrior,<br> 
 Now his picture hangs in the corridor.
 </p>
 
@@ -99,8 +99,8 @@ function Hint1() {
 
 
 <!-- SECOND CLUE START -->
-<p></p>
-<p>I’ll give beauty for ashes, and garments for praise,<br>
+<p></p><p></p><p></p><p></p><p></p><p></p>
+<p>2. I’ll give beauty for ashes, and garments for praise,<br>
 while Mr. Taft speaks and then Sergei plays. 
 </p>
 
@@ -191,9 +191,9 @@ function Hint2b() {
 <!-- THIRD CLUE START -->
 
 
-<p></p>
+<p></p><p></p><p></p><p></p><p></p><p></p>
 <p>
-Cobblers, cobblestones, a Rock like a saint,<br>
+3. Cobblers, cobblestones, a Rock like a saint,<br>
 Start at the book place, even if quaint,<br>
 And then whither you go, or Whence you came,<br>
 Keep spending your shoe-leather--conquer the game.

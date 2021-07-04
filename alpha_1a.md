@@ -10,13 +10,13 @@ title: Test
 
 <h1><i>You must first discover four key words<br> before the full riddle will be revealed: </i></h1>
 
-<p>(Note, to see responses, you may need to scroll down the page as you submit answers.)</p>
+<p>(Note, click "Submit" to check your answers. You may need to scroll down the page as you submit answers to see the results.)</p>
 
            
             
 <!-- Clue and solution -->
 
-<p>"Bramble" and "little grape vine"<br>
+<p>1. "Bramble" and "little grape vine"<br>
 are two Spanish words here that combine<br>
 to make a sweet treat that you drink.
 </p>
@@ -117,12 +117,12 @@ function Hint1b() {
 
 
 
-
+<p></p><p></p><p></p>
 <p></p>
 <p></p>
 <p></p><p></p><p></p>
 <p></p>
-<p>A Hungarian Jew was quick to the take<br>
+<p>2. A Hungarian Jew was quick to the take<br>
 to develop his little (un)matzo cake.
 </p>
 
@@ -217,13 +217,14 @@ function Hint2b() {
 </div>
 </div>
 
+<p></p><p></p><p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p>
-Sticks and stones may break my bones;<br>
+3. Sticks and stones may break my bones;<br>
 But ancient Lodgers used this as glue.<br>
 Make sure you have the correct noun:<br>
 Or the homonym will blow up the town.<br>
@@ -324,13 +325,13 @@ function Hint3b() {
 
 </div>
 
-
+<p></p><p></p><p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p>
-Peat and rePeat were in a boat. Peat fell out.<br>
+4. Peat and rePeat were in a boat. Peat fell out.<br>
 Who was still in the boat?<br>
 Peat and rePeat were in a boat...<br>
 The word you seek is mostly here. <br>
@@ -454,7 +455,7 @@ Use a Caesar Cypher on a single letter<p></p>
 <div ><!--div that we want to hide-->
 
 		<div><!--div that we want to hide-->
-			<p>Sarsaparilla, yeast, mortar, and heat<br> These four between uplifted spires will meet.<br> The answer is the true sobriquet,<br> Of a place that has earned local célèbre.</p>
+			<p>5. Sarsaparilla, yeast, mortar, and heat<br> These four between uplifted spires will meet.<br> The answer is the true sobriquet,<br> Of a place that has earned local célèbre.</p>
 		</div>
 
 			<div class='wrapper'>

@@ -5,7 +5,7 @@ title: Test
  
 <h1>Watch each video to find the clues that will lead you to your destination:</h1>
 
-<p>(Note, to see responses, you may need to scroll down the page as you submit answers.)</p>
+<p>(Note, click "Submit" to check your answers. You may need to scroll down the page as you submit answers to see the results.)</p>
 
 
 
