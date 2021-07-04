@@ -213,12 +213,7 @@ function Hint2b() {
 </div>
 </div>
 
-<p></p><p></p><p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p></p><br><br>
 <p>
 3. Sticks and stones may break my bones;<br>
 But ancient Lodgers used this as glue.<br>

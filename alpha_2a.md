@@ -99,7 +99,7 @@ function Hint1() {
 
 
 <!-- SECOND CLUE START -->
-<p></p><p></p><p></p><p></p><p></p><p></p>
+<p></p><br><br>
 <p>2. I’ll give beauty for ashes, and garments for praise,<br>
 while Mr. Taft speaks and then Sergei plays. 
 </p>
@@ -191,7 +191,7 @@ function Hint2b() {
 <!-- THIRD CLUE START -->
 
 
-<p></p><p></p><p></p><p></p><p></p><p></p>
+<p></p><br><br>
 <p>
 3. Cobblers, cobblestones, a Rock like a saint,<br>
 Start at the book place, even if quaint,<br>
