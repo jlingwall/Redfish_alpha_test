@@ -5,7 +5,7 @@ title: Clue 3
  
 <h1>Welcome to your final puzzle.</h1>
 
-<p>(Note, click "Submit" to check your answers. You may need to scroll down the page as you submit answers to see the results.)</p>
+<p></p>
 
 
 
