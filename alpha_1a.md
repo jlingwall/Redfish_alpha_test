@@ -316,11 +316,7 @@ function Hint3b() {
 
 </div>
 
-<p></p><p></p><p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p></p><br><br>
 <p>
 4. Peat and rePeat were in a boat. Peat fell out.<br>
 Who was still in the boat?<br>
