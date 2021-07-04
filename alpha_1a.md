@@ -549,7 +549,7 @@ Use a Caesar Cypher on a single letter<p></p>
 				var result5 = document.getElementById('result5');
 
 				if (nameField != "heaps of pizza" && nameField != "Heaps of Pizza" && nameField != "Heaps of pizza") {
-					if (nameField == "Brick Oven" || nameField == "brick oven" || nameField == "The Brick Oven"){
+					if (nameField == "Brick Oven" || nameField == "brick oven" || nameField == "The Brick Oven" || nameField == "Brick oven"){
 					result5.textContent = "Close. You need the sobriquet ...";
 				}
 					else {
