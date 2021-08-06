@@ -14,12 +14,12 @@ Its bull riders can tolerate bruises<br>
 But they should be as wise as a fabulist<br>
 And wear hard-shelled helmets to protect their brains.
 <p>
-Take a selfie on the spot.
+Take a picture of the spot.
 
 </p>
 
 
-<h2><a href="https://docs.google.com/forms/d/e/1FAIpQLScxn5hFpmlOWb6y5CiWEPIov477ESS55uvxoiVDVRbZLobNZA/viewform?usp=sf_link">(Upload a picture of this location. You do not need to travel there and take a picture, finding one online is sufficient.)</a></h2>
+<h2><a href="https://docs.google.com/forms/d/e/1FAIpQLScxn5hFpmlOWb6y5CiWEPIov477ESS55uvxoiVDVRbZLobNZA/viewform?usp=sf_link">Upload a picture of this location. You do not need to travel there and take a picture, finding one online is sufficient.</a></h2>
 
 
 
