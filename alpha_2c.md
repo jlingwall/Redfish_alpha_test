@@ -16,12 +16,12 @@ I was as brilliant as Photo Emmision Microscopy.<br>
 I married the First Lady of TV.</p>
 
 <p>
-Take a selfie with us.
+Find a picture of our resting place.
 
 </p>
  
 
-<h2><a href="https://docs.google.com/forms/d/e/1FAIpQLSe2IjynsaTsIkEImOaELDfgcA1OAp2zrww_1_P-dbzFeDi0xw/viewform?usp=sf_link">Upload a selfie here to complete this hunt.</a></h2>
+<h2><a href="https://docs.google.com/forms/d/e/1FAIpQLSe2IjynsaTsIkEImOaELDfgcA1OAp2zrww_1_P-dbzFeDi0xw/viewform?usp=sf_link">(Find a picture to upload and advance. You do not need to travel there and take a picture, finding one online is sufficient.</a></h2>
 
 
 <p>

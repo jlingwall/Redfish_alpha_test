@@ -52,7 +52,7 @@ title: Clue 2
 				  const link = document.createElement("a");
 
 				  link.setAttribute('href', `https://docs.google.com/forms/d/e/1FAIpQLSeiX5A9Ru63ItlfnU3pDgtuzXNab3f9809VxwR_8u23XIm6Uw/viewform?usp=sf_link`);
-				  link.textContent = 'Take a selfie in front of a J. Dawgs location and then upload at this link.';
+				  link.textContent = 'Find a picture of a J. Dawgs location and then upload at this link. (You do not need to travel there and take a picture, finding one online is sufficient.)';
 				  symbolSpan.appendChild(link);
 				  balanceDiv.appendChild(symbolSpan);
 				  document.body.appendChild(balanceDiv);

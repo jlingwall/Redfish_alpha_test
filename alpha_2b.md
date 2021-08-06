@@ -52,7 +52,7 @@ title: Clue 2
 				  const link = document.createElement("a");
 
 				  link.setAttribute('href', `https://docs.google.com/forms/d/e/1FAIpQLScnHjQthLBSzY8dponSzwOM2ayx0EAbE0SpIOZDRLK3IxA50g/viewform?usp=sf_link`);
-				  link.textContent = 'Take a selfie on bended knee with the Falls in the background.';
+				  link.textContent = 'Find a picture of this location to upload. You do not need to travel there and take a picture, finding one online is sufficient.';
 				  symbolSpan.appendChild(link);
 				  balanceDiv.appendChild(symbolSpan);
 				  document.body.appendChild(balanceDiv);
